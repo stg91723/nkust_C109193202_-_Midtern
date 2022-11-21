@@ -1,4 +1,4 @@
-# nkust1111111111ooo_midterm
+# nkust_C109193202_莊承翰_midterm
 
 期中作業參考
 

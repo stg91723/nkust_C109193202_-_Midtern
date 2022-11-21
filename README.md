@@ -1,7 +1,5 @@
 # nkust_C109193202_莊承翰_midterm
 
-期中作業參考
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
